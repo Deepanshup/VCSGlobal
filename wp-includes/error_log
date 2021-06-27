@@ -1,0 +1,4 @@
+[22-Feb-2020 14:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/haramkho/public_html/coders24.online/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/haramkho/public_html/coders24.online/wp-includes/rss-functions.php on line 9
